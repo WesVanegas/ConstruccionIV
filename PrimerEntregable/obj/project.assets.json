@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesle\\PrimerEntregable\\PrimerEntregable.csproj",
+      "projectUniqueName": "C:\\Users\\wesle\\Desktop\\EntregableConstruccion\\PrimerEntregable\\PrimerEntregable.csproj",
       "projectName": "PrimerEntregable",
-      "projectPath": "C:\\Users\\wesle\\PrimerEntregable\\PrimerEntregable.csproj",
+      "projectPath": "C:\\Users\\wesle\\Desktop\\EntregableConstruccion\\PrimerEntregable\\PrimerEntregable.csproj",
       "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesle\\PrimerEntregable\\obj\\",
+      "outputPath": "C:\\Users\\wesle\\Desktop\\EntregableConstruccion\\PrimerEntregable\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wesle\\AppData\\Roaming\\NuGet\\NuGet.Config"

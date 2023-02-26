@@ -115,7 +115,7 @@ if (TipoPizza==2){
     }
 }
 if (TipoPizza!=1 & TipoPizza!=2){
-    Console.WriteLine("Pizza incorrecta");
+    Console.WriteLine("Incorrecto! Debes elegir una de las opciones.");
     Environment.Exit(0);
 }
 
