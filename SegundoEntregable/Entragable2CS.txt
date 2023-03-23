@@ -1,0 +1,97 @@
+
+Interface_Monoplaza
+
+Encender()
+Apagar()
+Movimiento()
+Detener()
+
+
+
+
+Class Monoplaza : IMonoplaza{
+string Escuderia;
+bool Encendido;
+
+Encender(){
+    if(){
+    
+    }
+}
+Apagar(){
+    if(){
+    
+    }
+}
+Movimiento(){
+    if(){
+    
+    }
+}
+Detener(){
+    if(){
+    
+    }
+}
+
+}
+
+
+Class Circuito{
+Monoplaza Monoplaza
+Int NumeroVueltas
+
+AgregarMonoplaza()
+
+int RealizarPrueba(){
+
+print("Enceder monoplaza")
+print (Movimiento)
+print (Vuelta 1 y tiempo)
+print (Vuelta 1 y tiempo)
+print (Detenido)
+print (Apagado)
+   
+}
+
+SacarPrueba()
+}
+
+
+
+
+Segundo Punto---------------------------------------------------
+
+
+class Pastel{
+Array Ingredientes;
+string nombre;
+int costo;
+
+AñadirIngredientes(){}--Pedir ingrediente add.
+
+CalcularCosto(){} -- Count
+
+CantidadIngrediente(){} -- foreach
+
+}
+
+Class Ingrediente{
+string nombre
+int cantidad
+int precio
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

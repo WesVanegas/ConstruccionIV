@@ -1,0 +1,15 @@
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.csproj.AssemblyReference.cache
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.AssemblyInfoInputs.cache
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.AssemblyInfo.cs
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.csproj.CoreCompileInputs.cache
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\bin\Debug\net7.0\primerpunto.exe
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\bin\Debug\net7.0\primerpunto.deps.json
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\bin\Debug\net7.0\primerpunto.runtimeconfig.json
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\bin\Debug\net7.0\primerpunto.dll
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\bin\Debug\net7.0\primerpunto.pdb
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.dll
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\refint\primerpunto.dll
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.pdb
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\primerpunto.genruntimeconfig.cache
+C:\Users\Wes Vanegas\Desktop\TdeA\Semestre V\Construccion software IV\Entragable2\primerpunto\obj\Debug\net7.0\ref\primerpunto.dll
