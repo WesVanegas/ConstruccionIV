@@ -1,6 +1,0 @@
-PrimerEntregable
-Entregable2CS.txt
-Entregable2.docx
-bin
-obj
-primerpunto.csproj
